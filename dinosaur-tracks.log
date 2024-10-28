@@ -1,0 +1,43 @@
+[{"stream_name":"stderr","time":19.143152776,"data":"/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py:7: DeprecationWarning: Starting with ImageIO v3 the behavior of this function will switch to that of iio.v3.imread. To keep the current behavior (and make this warning disappear) use `import imageio.v2 as imageio` or call `imageio.v2.imread` directly.\n"}
+,{"stream_name":"stderr","time":19.143226896,"data":"  import sys\n"}
+,{"stream_name":"stderr","time":28.504984248,"data":"/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py:20: DeprecationWarning: Starting with ImageIO v3 the behavior of this function will switch to that of iio.v3.imread. To keep the current behavior (and make this warning disappear) use `import imageio.v2 as imageio` or call `imageio.v2.imread` directly.\n"}
+,{"stream_name":"stdout","time":46.40785131,"data":"          id  type   p1   p2   p3   p4   p5   p6   p7   p8  ...  p9991  p9992  \\\n"}
+,{"stream_name":"stdout","time":46.4079216,"data":"0        1.0   0.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40792972,"data":"1        2.0   0.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40793431,"data":"2        3.0   0.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40793873,"data":"3        4.0   0.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40794308,"data":"4        5.0   0.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40794699,"data":"...      ...   ...  ...  ...  ...  ...  ...  ...  ...  ...  ...    ...    ...   \n"}
+,{"stream_name":"stdout","time":46.40795095,"data":"1666  1667.0   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40797276,"data":"1667  1668.0   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.40797862,"data":"1668  1669.0   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.407983709,"data":"1669  1670.0   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.407988009,"data":"1670  1671.0   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  ...    1.0    1.0   \n"}
+,{"stream_name":"stdout","time":46.407991869,"data":"\n"}
+,{"stream_name":"stdout","time":46.40799606,"data":"      p9993  p9994  p9995  p9996  p9997  p9998  p9999  p10000  \n"}
+,{"stream_name":"stdout","time":46.408000149,"data":"0       1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.408004109,"data":"1       1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.408007889,"data":"2       1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.40801158,"data":"3       1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.408015229,"data":"4       1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.4080192,"data":"...     ...    ...    ...    ...    ...    ...    ...     ...  \n"}
+,{"stream_name":"stdout","time":46.40802296,"data":"1666    1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.408026849,"data":"1667    1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.40803052,"data":"1668    1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.408034609,"data":"1669    1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.40805433,"data":"1670    1.0    1.0    1.0    1.0    1.0    1.0    1.0     1.0  \n"}
+,{"stream_name":"stdout","time":46.4080584,"data":"\n"}
+,{"stream_name":"stdout","time":46.40806262,"data":"[1671 rows x 10002 columns]\n"}
+,{"stream_name":"stderr","time":61.651326328,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2935: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":61.651380318,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":61.651399628,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":61.996203847,"data":"[NbConvertApp] Writing 88474 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":73.677950471,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2935: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":73.678011011,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":73.678018541,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":74.603741854,"data":"/opt/conda/lib/python3.7/site-packages/bleach/sanitizer.py:168: NoCssSanitizerWarning: 'style' attribute specified, but css_sanitizer not set.\n"}
+,{"stream_name":"stderr","time":74.603790024,"data":"  category=NoCssSanitizerWarning,\n"}
+,{"stream_name":"stderr","time":74.603795834,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":74.603800944,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":74.604081034,"data":"[NbConvertApp] Writing 345939 bytes to __results__.html\n"}
+]
